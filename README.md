@@ -27,7 +27,7 @@ Ideal für kleine Lager, IT‑Geräteverwaltung oder Privatgebrauch – kein Set
 ## ⚙️ Installation & Start
 
 1. Lege die Datei **`InventurListeSwing.java`** in einen Ordner, z. B.:  
-   `C:\Users\RobertMartin\Desktop\java-programms\inventur`
+   `C:\Users\user\Desktop\java-programms\inventur`
 
 2. Öffne eine PowerShell oder CMD in diesem Ordner.
 
